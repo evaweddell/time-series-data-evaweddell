@@ -9,6 +9,3 @@ import matplotlib.dates as dates
 import matplotlib.pyplot as plt
 import pandas as pd
 import requests
-
-
-raise NotImplementedError()
